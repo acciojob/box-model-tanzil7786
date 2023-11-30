@@ -16,14 +16,14 @@
 	padding:5px
 }
 
-#red {
+.red {
     background-color: red;
 }
 
-#green {
+.green {
     background-color: green;
 }
 
-#yellow {
+.yellow {
     background-color: yellow;
 }
