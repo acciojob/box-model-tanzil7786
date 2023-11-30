@@ -1,1 +1,28 @@
-/*  your css code here. If applicable */
+.main {
+	height: 20vh;
+	width: 50vw;
+	background-color: #D3D3D3;
+	border-radius: 16px;
+	border: 3px solid black;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.circle {
+	border-radius: 50%;
+	height: 15vh; 
+	width: 15vw;
+}
+
+#red {
+	background-color: red;
+}
+
+#green {
+	background-color: green;
+}
+
+#yellow {
+	background-color: yellow;
+}
