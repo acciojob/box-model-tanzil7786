@@ -1,28 +1,29 @@
-.main {
-	height: 20vh;
-	width: 50vw;
-	background-color: #D3D3D3;
-	border-radius: 16px;
-	border: 3px solid black;
-	display: flex;
-	justify-content: space-around;
-	align-items: center;
+.container {
+    height: 20vh;
+    width: 50vw;
+    background-color: #D3D3D3;
+    border-radius: 16px;
+    border: 3px solid black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 
 .circle {
-	border-radius: 50%;
-	height: 15vh; 
-	width: 15vw;
+    border-radius: 50%;
+    height: 15vh;
+    width: 15vw;
+	padding:5px
 }
 
 #red {
-	background-color: red;
+    background-color: red;
 }
 
 #green {
-	background-color: green;
+    background-color: green;
 }
 
 #yellow {
-	background-color: yellow;
+    background-color: yellow;
 }
